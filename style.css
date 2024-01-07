@@ -14,3 +14,9 @@ svg {
     display: block;
     max-width: 100%;
 }
+
+.main-container {
+    display: grid;
+    place-items: center;
+    grid-template-columns: 1fr;
+}
