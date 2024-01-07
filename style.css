@@ -175,3 +175,8 @@ button {
     background-color: hsl(224, 30%, 27%);
     font-family: 'HankenGrotesk';
 }
+
+.attribution {
+    margin: 0 2rem;
+    text-align: center;
+}
